@@ -20,8 +20,12 @@
  5. buka terminal dan jalankan kode di bawah
 
 ```
-apt get-update & apt get-upgrade
+sudo apt update && apt upgrade -y
 ```
 ### Instalasi ROS
 
 [How To Install ROS Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu) 
+
+# ROS
+
+[MATERI] (https://www.canva.com/design/DAGfGKKsj9E/pwzNZHn3X9JeHMe7WEWUBQ/edit?utm_content=DAGfGKKsj9E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
