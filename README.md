@@ -1,5 +1,5 @@
 # LW-Linux
-
+[MATERI](https://www.canva.com/design/DAGfDEZ6X6w/XPN1Ty9_IOjy7uzb7QPTPw/edit?utm_content=DAGfDEZ6X6w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Instalasi VM
 
 ### Pemilihan Virtual Machine
